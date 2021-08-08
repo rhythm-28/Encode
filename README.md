@@ -5,6 +5,7 @@ HOW TO RUN THE CODE?
 To check the working of the functions, I have also created an HTML file along with JS file. One can run it locally on the browser by pasting its path. After that, just put in any base26 string (lowercase letters) and click on encode. Same, can be done for decoding by putting in a base62 string.
 
 
+
 ENCODE Function : It works on ASCII values.
 
 First, it takes ascii value of each character from the original string and manipulates it. To make the encoded string unreadable, I used 4 different ways of manipulating ascii values depending upon the position of the character in the original string. Following are those ways:
@@ -24,6 +25,7 @@ The values that we see above (91,219,685,32) are not just pure random numbers. I
 In the end, I reversed the encoded string to make it even more un-crackable.
 
 It's time complexity is O(n) .
+
 
 
 
