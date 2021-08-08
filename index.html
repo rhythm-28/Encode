@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Encode/Decode</title>
+</head>
+
+<body>
+  <div>
+    <form onsubmit="return shorten()">
+        <input id="original" type="text">
+        <button type="submit"> Encode</button>
+        <h2 id="encoded">Encoded value : </h2>
+    </form>
+    <form onsubmit="return expand()">
+        <input id="base62" type="text">
+        <button type="submit"> Decode</button>
+        <h2 id="decoded">Decoded value : </h2>
+    </form>
+  </div>
+
+  <script src="index.js" charset="utf-8"></script>
+</body>
+
+</html>
