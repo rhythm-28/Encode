@@ -24,7 +24,7 @@ The values that we see above (91,219,685,32) are not just random numbers. I chos
 
 In the end, I reversed the encoded string to make it even more un-crackable.
 
-It's time complexity is O(n) .
+It's time complexity is O(n) , where n is the length of the original string.
 
 
 
@@ -36,7 +36,7 @@ First, it reverses the given encoded string. Then depending upon whether we enco
 1) if it is a number, we know that the next 2 characters will also be numbers as we only used 3 digit numbers while encoding. We also know it is equal to ASCII value + some constant. We just check its position (remember we calculated remainder when encoding) and convert it back to its original character using its ascii value and the constant.
 2) if it is a character, we checked its position (to decide if its a capital letter or a lowercase letter), then converted it back to its original character using its ascii value and the constant.
 
-It's time complexity is also O(n) .
+It's time complexity is also O(n) , where n is the length of the given encoded string.
 
 
 
