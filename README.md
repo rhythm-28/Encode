@@ -1,6 +1,7 @@
 # Proedge-JS-Task
 
 HOW TO RUN THE CODE?
+
 To check the working of the functions, I have also created an HTML file along with JS file. One can run it locally on the browser by pasting its path. After that, just put in any base26 string (lowercase letters) and click on encode. Same, can be done for decoding by putting in a base62 string.
 
 
