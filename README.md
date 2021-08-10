@@ -1,5 +1,3 @@
-# Proedge-JS-Task
-
 Video Demo : https://drive.google.com/file/d/1MZRy8JieT0-bLwHMKdixEi60kRExjHL6/view
 
 Deployed link : https://rhythm-28.github.io/Proedge-JS-Task/
