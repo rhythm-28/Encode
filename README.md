@@ -1,3 +1,5 @@
+It is an encryption system that encrypts a base26 string (a-z letters) into a base62 string (a-z,A-Z,0-9).
+
 Video Demo : https://drive.google.com/file/d/1MZRy8JieT0-bLwHMKdixEi60kRExjHL6/view
 
 Deployed link : https://rhythm-28.github.io/Proedge-JS-Task/
