@@ -2,7 +2,7 @@ It is an encryption system that encrypts a base26 string (a-z letters) into a ba
 
 Video Demo : https://drive.google.com/file/d/1MZRy8JieT0-bLwHMKdixEi60kRExjHL6/view
 
-Deployed link : https://rhythm-28.github.io/Proedge-JS-Task/
+Deployed link : https://rhythm-28.github.io/Encode/
 
 HOW TO RUN THE CODE?
 
